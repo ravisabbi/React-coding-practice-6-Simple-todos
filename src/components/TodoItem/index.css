@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.todo-title {
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 20px;
+  font-weight: 500;
+}
+.del-btn {
+  color: #ff0b37;
+  font-family: 'Roboto';
+  font-size: 20px;
+  background-color: #ffffff;
+  border: 2px solid #ff0b37;
+  border-radius: 8px;
+  margin-left: 20px;
+}
+.todo-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
